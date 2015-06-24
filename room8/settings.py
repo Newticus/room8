@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'tango_with_tango_project.wsgi.application'
+WSGI_APPLICATION = 'room8.wsgi.application'
 
 
 # Database
